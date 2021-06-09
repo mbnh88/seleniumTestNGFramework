@@ -1,0 +1,13 @@
+test/AmazonYourOrderedItemListTest.class
+test/AmazonSearchTest.class
+utilities/BrowserUtils.class
+test/AmazonItemPurchaseTest.class
+pages/demoqa_page.class
+pages/AmazonHomePage.class
+test/HomeworkAssignment.class
+test/AmazonAddToCartTest.class
+utilities/Driver.class
+test/AmazonCreateAccountTest.class
+test/HomeworkTest.class
+utilities/PropertiesReader.class
+pages/SeleniumEasyAlertPage.class

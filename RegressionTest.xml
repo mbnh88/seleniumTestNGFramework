@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionTests">
+	<test name="Regression">
+		<classes>
+			<class name="test.AmazonAddToCartTest" />
+			<class name="test.AmazonCreateAccountTest" />
+			<class name="test.AmazonItemPurchaseTest" />
+			<class name="test.AmazonSearchTest" />
+			<class name="test.AmazonYourOrderedItemListTest" />
+			<class name="test.HomeworkTest" />
+			<class name="test.HomeworkAssignment" />
+		</classes>
+	</test>
+</suite>

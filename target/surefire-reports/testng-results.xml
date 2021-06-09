@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-04T15:36:23 EDT" name="SmokeTest" finished-at="2021-06-04T15:36:23 EDT" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2021-06-04T15:36:23 EDT" name="Smoke" finished-at="2021-06-04T15:36:23 EDT" duration-ms="33">
+      <class name="test.AmazonAddToCartTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.AmazonAddToCartTest@7f9fcf7f]" started-at="2021-06-04T15:36:23 EDT" name="beforeMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:test.AmazonAddToCartTest@7f9fcf7f]" started-at="2021-06-04T15:36:23 EDT" name="f" finished-at="2021-06-04T15:36:23 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AmazonAddToCartTest@7f9fcf7f]" started-at="2021-06-04T15:36:23 EDT" name="afterMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.AmazonAddToCartTest -->
+      <class name="test.AmazonYourOrderedItemListTest">
+        <test-method signature="f()[pri:0, instance:test.AmazonYourOrderedItemListTest@212bf671]" started-at="2021-06-04T15:36:23 EDT" name="f" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- test.AmazonYourOrderedItemListTest -->
+      <class name="test.AmazonItemPurchaseTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.AmazonItemPurchaseTest@2ed0fbae]" started-at="2021-06-04T15:36:23 EDT" name="beforeMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:test.AmazonItemPurchaseTest@2ed0fbae]" started-at="2021-06-04T15:36:23 EDT" name="f" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AmazonItemPurchaseTest@2ed0fbae]" started-at="2021-06-04T15:36:23 EDT" name="afterMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.AmazonItemPurchaseTest -->
+      <class name="test.AmazonCreateAccountTest">
+        <test-method signature="f()[pri:0, instance:test.AmazonCreateAccountTest@25a65b77]" started-at="2021-06-04T15:36:23 EDT" name="f" finished-at="2021-06-04T15:36:23 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.AmazonCreateAccountTest@25a65b77]" started-at="2021-06-04T15:36:23 EDT" name="beforeMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AmazonCreateAccountTest@25a65b77]" started-at="2021-06-04T15:36:23 EDT" name="afterMethod" finished-at="2021-06-04T15:36:23 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.AmazonCreateAccountTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- SmokeTest -->
+</testng-results>
